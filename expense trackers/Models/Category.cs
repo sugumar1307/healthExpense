@@ -5,7 +5,7 @@ namespace expense_trackers.Models
 {
     public class Category
     {
-        //hi frnds new to learn this course
+        //i teach stathish kumar how to use.
         [Key]
         public int categoryId { get;set; }
 
