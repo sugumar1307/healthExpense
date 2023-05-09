@@ -6,7 +6,7 @@ namespace expense_trackers.Models
 {
     public class Transcation
     {
-        //this is kaviyarasu model.
+        
         [Key]
         public int TransactionId { get; set; }
 
