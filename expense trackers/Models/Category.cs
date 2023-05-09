@@ -5,7 +5,7 @@ namespace expense_trackers.Models
 {
     public class Category
     {
-        //hi frnds new to learn this course
+        //now i teach stahish kumar how to clone
         [Key]
         public int categoryId { get;set; }
 
